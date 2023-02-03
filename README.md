@@ -1,11 +1,11 @@
 # G2M Cab DataSets
-In the G2M insight for Cab Investment firm project, we will show which company (Yellow Cab or Pink Cab) is the better opportunity to invest in it.
+In the G2M insight for Cab Investment firm project, we will show which company (Yellow Cab or Pink Cab) is better for investment.
 
-Here are some points before checking the results out:
+Here are some points before checking the results:
 
-We use 4 datasets,: Cab_Data.csv City.csv Customer_ID.csv Transaction_ID.csv US Bank holidays.csv
+We use 4 datasets,: Cab_Data.csv City.csv Customer_ID.csv Transaction_ID.csv
 
-Profit is defined by me: Profit = Price Charged - Cost of Trip
+Profit is defined as: Profit = Price Charged - Cost of Trip
 
 Following analysis has been performed:
     Data Correlation for both the cabs
