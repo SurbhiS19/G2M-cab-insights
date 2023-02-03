@@ -7,7 +7,16 @@ We use 4 datasets,: Cab_Data.csv City.csv Customer_ID.csv Transaction_ID.csv US 
 
 Profit is defined by me: Profit = Price Charged - Cost of Trip
 
-"df_total" is a dataframe is created by merging mentioned 5 dataframes : The days which is not a holiday, has "-" value in "Holiday" column After Merging if any record has at least 1 NaN value, the whole record is dropped. it means we do not have enough information of that trip
+Following analysis has been performed:
+    Data Correlation for both the cabs
+    Month-wise profit distribution of both cabs
+    Year-wise profit distribution of both cabs
+    City-wise profit distribution of both cabs
+    Annual profit rate
+    Price vs Distance and Cost vs Distance comparison
+    Gender and Year wise cab usage
+    Age and year wise can usage
+    Income wise Cab usage
 
-Hypothesis and Conclusions are provided in the notebook
+Hypothesis and Conclusions are provided in the notebook.
 
